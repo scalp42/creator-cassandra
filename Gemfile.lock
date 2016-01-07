@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cassandra-driver (3.0.0.beta.1)
+      ione (~> 1.2)
+    ione (1.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cassandra-driver (= 3.0.0.beta.1)
+
+BUNDLED WITH
+   1.10.6
