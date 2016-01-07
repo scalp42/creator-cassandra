@@ -1,2 +1,3 @@
 # creator-cassandra
-Create Cassandra databases and grants through environment variables
+
+Create Cassandra keyspaces and users through environment variables
